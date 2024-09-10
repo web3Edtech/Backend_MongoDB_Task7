@@ -1,2 +1,2 @@
-# Backend_MongoDB_Task6
-Advanced Indexing in MongoDB
+# Backend_MongoDB_Task7
+Advanced Aggregation with MongoDB
